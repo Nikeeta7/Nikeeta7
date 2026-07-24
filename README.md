@@ -33,7 +33,9 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 
 <td width="32%" align="center">
   
-<img src = "https://cdn-icons-mp4.flaticon.com/512/11260/11260829.mp4">
+<a href="https://cdn-icons-mp4.flaticon.com/512/11260/11260829.mp4">
+  <img src="https://cdn-icons-png.flaticon.com/512/11260/11260829.png" width="80" alt="Animation">
+</a>
 
 </td>
 
