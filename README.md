@@ -51,8 +51,6 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="48"/>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
