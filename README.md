@@ -49,7 +49,7 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 <td width="28%"><h3>🤖 Artificial Intelligence</h3></td>
 <td width="72%">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="48"/>
+<img src="https://skillicons.dev/icons?i=python, xgboost" height="48"/>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
