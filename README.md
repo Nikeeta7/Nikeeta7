@@ -1,190 +1,160 @@
 <div align="center">
 
-# 👋 Hi, I'm Nikeeta Jha
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Nikeeta%20Jha&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Researcher&descAlignY=58"/>
 
-### AI Engineer • Full Stack Developer • IoT Enthusiast • AIML Engineering
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;FastAPI+%7C+React+Developer;DRDO+AI%2FML+Intern;IoT+%26+Robotics+Enthusiast;Building+Real+World+Solutions"/>
 
-Building AI-powered applications, full-stack solutions, and intelligent IoT systems that solve real-world problems.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikeeta-jha-62b91a282/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nikeetajha2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-success?style=for-the-badge)](#)
+<img src="https://komarev.com/ghpvc/?username=Nikeeta7&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Nikeeta7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Nikeeta7?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👩🏻‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering student (2022–2026)
+Hi, I'm **Nikeeta Jha**, a Computer Science Engineering student passionate about building practical AI systems, intelligent web applications, and IoT solutions.
 
-💡 Passionate about Artificial Intelligence, Full Stack Development, IoT and Software Engineering.
+My interests include:
 
-🚀 I enjoy building real-world products that combine AI, automation, web technologies, and embedded systems.
+- Artificial Intelligence
+- Machine Learning
+- FastAPI
+- Full Stack Development
+- Large Language Models
+- Robotics
+- IoT Systems
 
-🏆 Highlights
+Currently exploring:
 
-- AI/ML & System Integration Intern at **SSPL–DRDO**
-- IBM SkillsBuild AI Program
-- Published Research Paper (ICAMC 2025)
-- Smart Delhi Ideathon 2025 – 4th Place
-- Smart India Hackathon Participant
-- Tech Expo – 2nd Position
+- AI Agents
+- Enterprise RAG
+- LangChain
+- System Design
+- React
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,tailwind,fastapi,mongodb,mysql,firebase,git,github,vscode,arduino"/>
 
-### Frameworks & Libraries
-
-![React](https://skillicons.dev/icons?i=react)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-
-### Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Arduino](https://skillicons.dev/icons?i=arduino)
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 EvacAI (DRDO)
-
-AI-powered emergency evacuation and medical routing system using FastAPI, Python, GeoPandas and AI Agents.
-
----
-
-## 📄 Enterprise RAG
-
-Document Question Answering System using
-
-- FastAPI
-- LangChain
-- Gemini
-- ChromaDB
-- React
-
----
-
-## 🌊 WaterX
-
-Autonomous Water Surface Cleaning Robot
-
-- GPS
-- IoT
-- Sensors
-- Arduino
-- Smart India Hackathon
-
----
-
-## 🌱 RoboMechX-5
-
-AI-powered Modular Air Purification System
-
-🏆 Smart Delhi Ideathon 2025 – 4th Place
-
----
-
-## 📱 Smart Stick
-
-IoT Smart Stick for visually impaired users
-
-- GPS
-- GSM
-- Obstacle Detection
+| Project | Description |
+|---------|-------------|
+| 🤖 Enterprise RAG | AI-powered document assistant using FastAPI, LangChain, Gemini & ChromaDB |
+| 🚨 EvacAI | AI emergency evacuation system developed during DRDO Internship |
+| 🌊 WaterX | Autonomous Water Surface Cleaning Robot |
+| 🌱 RoboMechX-5 | AI-powered Modular Air Purifier |
+| 🌦 Weather Dashboard | Real-time weather forecasting application |
+| 🎮 Ultimate Tic Tac Toe | AI-based game using Minimax Algorithm |
 
 ---
 
 # 💼 Experience
 
-### AI/ML & System Integration Intern
+🛡 **AI/ML & System Integration Intern**
 
-**SSPL – DRDO**
+SSPL – DRDO
 
-- FastAPI
-- Python
-- React
-- AI Agents
-- Geospatial AI
+Python • FastAPI • React • GeoSpatial AI • AI Agents
 
 ---
 
-### IBM SkillsBuild
+🧠 **IBM SkillsBuild**
 
-AI & Multi-Agent Systems
+Artificial Intelligence
 
----
+Prompt Engineering
 
-### Research Intern
+AI Agents
 
-DeNovo Technologies
-
-3D Printing • MATLAB • Blender
+LLMs
 
 ---
 
-# 📚 Research
+🖨 **Research Intern**
 
-📄 Revolutionizing Solar Efficiency: IoT-based Dust Monitoring & Cleaning
+3D Printing
 
-Published at ICAMC 2025
+MATLAB
+
+Blender
 
 ---
 
 # 🏆 Achievements
 
-🥇 Smart Delhi Ideathon 2025 — 4th Place
+🥇 Smart Delhi Ideathon
 
-🥈 Tech Expo 2025 — 2nd Position
+🥈 Tech Expo
 
 🏅 Smart India Hackathon
 
-📄 Published Research Paper
+📄 Research Publication
 
-🎖 Letter of Appreciation — DRDO
+🎖 DRDO Appreciation
 
 ---
 
 # 🌱 Currently Learning
 
-- Large Language Models (LLMs)
-- LangChain
-- FastAPI
-- React
-- AI Agents
-- Vector Databases
-- System Design
+```text
+██████████████░░░░░░░░ 70%
+
+AI Agents
+
+████████████████░░░░░ 80%
+
+FastAPI
+
+███████████████░░░░░░ 75%
+
+React
+
+████████████░░░░░░░░░ 60%
+
+System Design
+```
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect
 
-💼 LinkedIn
+<p align="center">
 
-https://www.linkedin.com/in/nikeeta-jha-62b91a282/
+<a href="https://www.linkedin.com/in/nikeeta-jha-62b91a282">
 
-📧 Email
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
-nikeetajha2005@gmail.com
+</a>
 
-⭐ Thanks for visiting my profile!
+<a href="mailto:nikeetajha2005@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
