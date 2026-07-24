@@ -42,7 +42,7 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 
 
 
-# 💻 Skills & Technologies
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"/> Skills & Technologies
 
 <table width="100%">
 <tr>
