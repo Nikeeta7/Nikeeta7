@@ -40,87 +40,10 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 </tr>
 </table>
 
-# 💻 Skills & Technologies
 
-<table>
-<tr>
-<td width="50%">
+<table> <tr> <td width="30%"><b>🤖 Artificial Intelligence</b></td> <td> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> <!-- Add custom badges for technologies not in Skill Icons --> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=flat-square"/> </td> </tr> <tr> <td><b>💻 Software Engineering</b></td> <td> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,fastapi,html,css,tailwind" /> </td> </tr> <tr> <td><b>🗄 Databases</b></td> <td> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /> </td> </tr> <tr> <td><b>🛠 Developer Tools</b></td> <td> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </td> </tr> <tr> <td><b>⚙ Embedded & IoT</b></td> <td> <img src="https://skillicons.dev/icons?i=arduino" /> <img src="https://img.shields.io/badge/ESP8266-00979D?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-2C8EBB?style=flat-square"/> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/3D_Printing-FF6F00?style=flat-square"/> </td> </tr> </table>
 
-### 🤖 AI & Intelligent Systems
-- Agentic AI
-- Generative AI
-- LLM Applications
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
 
-### 💻 Programming
-- Python
-- C / C++
-- JavaScript
-- MATLAB
-- HTML5
-- CSS3
-
-### 🌐 Software Development
-- React.js
-- FastAPI
-- REST APIs
-- Tailwind CSS
-- Firebase
-
-</td>
-
-<td width="50%">
-
-### 🗄 Databases
-- MongoDB
-- MySQL
-
-### 🧠 AI / Machine Learning
-- OpenCV
-- XGBoost
-- GeoPandas
-
-### 🛠 Developer Tools
-- Git
-- GitHub
-- VS Code
-- Streamlit
-- Postman
-
-### ⚙ Hardware & Design
-- Arduino Uno
-- ESP8266
-- Embedded Systems
-- IoT
-- Blender
-- 3D Printing
-
-</td>
-</tr>
-</table>
-
-<br>
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,tailwind,fastapi,mongodb,mysql,firebase,git,github,vscode,arduino"/>
-
-</p>
-
----
-
-## 🤖 AI Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
-
-</p>
 
 # 🚀 Featured Projects
 
