@@ -23,7 +23,7 @@
 
 <td width="68%" valign="top">
 
-I'm **Nikeeta**, a **Computer Science Engineering graduate** with an interest in **Artificial Intelligence** and **Software Development** domains.
+I'm **Nikeeta**, a **Computer Science Engineering graduate** passionate about **Artificial Intelligence** and **Software Development**.
 
 I enjoy building projects, experimenting with new technologies, and figuring out how things work. Over time, I've worked on **AI applications, web platforms, and embedded systems,** each of which has helped me grow as a developer.
 
