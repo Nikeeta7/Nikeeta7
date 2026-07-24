@@ -33,8 +33,7 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 
 <td width="32%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9sOGc5dDl4M3d4N2x2MXRsdG5yMnJ4eXpsNmdvcnJvMmd3emM5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>  
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9sOGc5dDl4M3d4N2x2MXRsdG5yMnJ4eXpsNmdvcnJvMmd3emM5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" width="500"/>  
 
 </td>
 
