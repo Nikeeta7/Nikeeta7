@@ -33,7 +33,8 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 
 <td width="32%" align="center">
 
-<img src="https://i.pinimg.com/736x/fa/b5/8c/fab58cfd10957d5db2c1611b705992bb.jpg"/>
+<img src="<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/a5dc3157-6587-459d-b64e-daee7b937612" />
+"/>
 
 </td>
 
