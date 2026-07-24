@@ -49,13 +49,13 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 <td width="28%"><h3>🤖 Artificial Intelligence</h3></td>
 <td width="72%">
 
-<img src="https://skillicons.dev/icons?i=python" height="30"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge" height="40"/>
 
 </td>
 </tr>
