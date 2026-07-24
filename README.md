@@ -46,8 +46,8 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 
 <table width="100%">
 <tr>
-<td width="28%"><h3>🤖 Artificial Intelligence</h3></td>
-<td width="72%">
+<td width="30%"><h3>🤖 Artificial Intelligence</h3></td>
+<td width="70%">
 
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
 
