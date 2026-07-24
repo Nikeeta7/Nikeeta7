@@ -16,29 +16,29 @@
 
 ---
 
-# 👩🏻‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28" /> Professional Profile
 
-Hi, I'm **Nikeeta Jha**, a Computer Science Engineering student passionate about building practical AI systems, intelligent web applications, and IoT solutions.
+<table>
+<tr>
 
-My interests include:
+<td width="68%" valign="top">
 
-- Artificial Intelligence
-- Machine Learning
-- FastAPI
-- Full Stack Development
-- Large Language Models
-- Robotics
-- IoT Systems
+Hi, I'm **Nikeeta**, a **Computer Science Engineering graduate** with an interest in **Artificial Intelligence** and **Software Development** domains.
 
-Currently exploring:
+I enjoy building projects, experimenting with new technologies, and figuring out how things work. Over time, I've worked on **AI applications, web platforms, and embedded systems,** each of which has helped me grow as a developer.
 
-- AI Agents
-- Enterprise RAG
-- LangChain
-- System Design
-- React
+I'm always looking to improve as an engineer by exploring new technologies, writing better software, and taking on projects that challenge me.
 
----
+</td>
+
+<td width="32%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nikeeta7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+</td>
+
+</tr>
+</table>
 
 # 💻 Tech Stack
 
