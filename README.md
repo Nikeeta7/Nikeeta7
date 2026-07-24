@@ -40,9 +40,8 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 </tr>
 </table>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> Skills & Technologies
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="28" /> Skills & Technologies
 
 <table width="100%">
 <tr>
