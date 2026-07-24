@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28" /> Hello Viewer!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="50" /> Hello Viewer!
 
 <table>
 <tr>
@@ -42,7 +42,7 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 
 
 
-# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="28"/> Skills & Technologies
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"/> Skills & Technologies
 
 <table width="100%">
 <tr>
