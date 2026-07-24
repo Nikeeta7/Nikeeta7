@@ -40,8 +40,68 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 </tr>
 </table>
 
-# 💻 Tech Stack
+# 💻 Skills & Technologies
 
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Intelligent Systems
+- Agentic AI
+- Generative AI
+- LLM Applications
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+
+### 💻 Programming
+- Python
+- C / C++
+- JavaScript
+- MATLAB
+- HTML5
+- CSS3
+
+### 🌐 Software Development
+- React.js
+- FastAPI
+- REST APIs
+- Tailwind CSS
+- Firebase
+
+</td>
+
+<td width="50%">
+
+### 🗄 Databases
+- MongoDB
+- MySQL
+
+### 🧠 AI / Machine Learning
+- OpenCV
+- XGBoost
+- GeoPandas
+
+### 🛠 Developer Tools
+- Git
+- GitHub
+- VS Code
+- Streamlit
+- Postman
+
+### ⚙ Hardware & Design
+- Arduino Uno
+- ESP8266
+- Embedded Systems
+- IoT
+- Blender
+- 3D Printing
+
+</td>
+</tr>
+</table>
+
+<br>
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,tailwind,fastapi,mongodb,mysql,firebase,git,github,vscode,arduino"/>
@@ -49,6 +109,18 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 </p>
 
 ---
+
+## 🤖 AI Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+
+</p>
 
 # 🚀 Featured Projects
 
