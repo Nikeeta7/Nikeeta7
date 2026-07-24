@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Nikeeta%20Jha&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Artificial%20Intelligence%20%7C%20Intelligent%20Systems%20%7C%20Research&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&duration=3000&center=true&vCenter=true&width=1100&lines=Machine+Learning;Generative+AI;Agentic+AI;Computer+Vision;Full+Stack+Development;Backend+Engineering;Embedded+Systems+%26+IoT;Building+Intelligent+Software+for+Real-World+Problems+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&duration=3000&center=true&vCenter=true&width=1100&lines=Machine%20Learning;Generative%20AI;Agentic%20AI;Computer%20Vision;Full%20Stack%20Development;Backend%20Engineering;Embedded%20Systems%20%26%20IoT;Building%20Intelligent%20Software%20for%20Real-World%20Problems"/>
 
 <br>
 
