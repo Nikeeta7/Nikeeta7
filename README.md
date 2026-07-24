@@ -16,14 +16,14 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28" /> Hello Viewer!
 
 <table>
 <tr>
 
 <td width="68%" valign="top">
 
-Hi, I'm **Nikeeta**, a **Computer Science Engineering graduate** with an interest in **Artificial Intelligence** and **Software Development** domains.
+I'm **Nikeeta**, a **Computer Science Engineering graduate** with an interest in **Artificial Intelligence** and **Software Development** domains.
 
 I enjoy building projects, experimenting with new technologies, and figuring out how things work. Over time, I've worked on **AI applications, web platforms, and embedded systems,** each of which has helped me grow as a developer.
 
