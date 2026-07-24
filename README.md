@@ -1,52 +1,190 @@
 <div align="center">
 
-# Hi 👋 I'm Nikeeta Jha
+# 👋 Hi, I'm Nikeeta Jha
 
-### 🚀 AI Developer | Web Developer | AIML Engineering | IOT 
+### AI Engineer • Full Stack Developer • IoT Enthusiast • AIML Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;FastAPI+%7C+React+%7C+Python;Enterprise+RAG+Developer;Smart+India+Hackathon+Participant;Always+Learning+New+Things" />
+Building AI-powered applications, full-stack solutions, and intelligent IoT systems that solve real-world problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikeeta-jha-62b91a282/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nikeetajha2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-success?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech CSE Student at GGSIPU
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Full Stack Developer
-- 🌱 Currently learning FastAPI, React, LangChain and LLMs
-- 🏆 Smart India Hackathon Participant
-- 🏆 Smart Delhi Ideathon - 4th winner
-- ⚡ Love building AI + IoT Projects
+🎓 B.Tech Computer Science Engineering student (2022–2026)
+
+💡 Passionate about Artificial Intelligence, Full Stack Development, IoT and Software Engineering.
+
+🚀 I enjoy building real-world products that combine AI, automation, web technologies, and embedded systems.
+
+🏆 Highlights
+
+- AI/ML & System Integration Intern at **SSPL–DRDO**
+- IBM SkillsBuild AI Program
+- Published Research Paper (ICAMC 2025)
+- Smart Delhi Ideathon 2025 – 4th Place
+- Smart India Hackathon Participant
+- Tech Expo – 2nd Position
 
 ---
 
-# 🌐 Connect with Me
+# 💻 Tech Stack
 
-<p align="center">
+### Languages
 
-<a href="https://www.linkedin.com/in/nikeeta-jha-62b91a282/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-<a href="mailto:nikeetajha2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+### Frameworks & Libraries
 
-</p>
+![React](https://skillicons.dev/icons?i=react)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-<!--
-**Nikeeta7/Nikeeta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Database
 
-Here are some ideas to get you started:
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 EvacAI (DRDO)
+
+AI-powered emergency evacuation and medical routing system using FastAPI, Python, GeoPandas and AI Agents.
+
+---
+
+## 📄 Enterprise RAG
+
+Document Question Answering System using
+
+- FastAPI
+- LangChain
+- Gemini
+- ChromaDB
+- React
+
+---
+
+## 🌊 WaterX
+
+Autonomous Water Surface Cleaning Robot
+
+- GPS
+- IoT
+- Sensors
+- Arduino
+- Smart India Hackathon
+
+---
+
+## 🌱 RoboMechX-5
+
+AI-powered Modular Air Purification System
+
+🏆 Smart Delhi Ideathon 2025 – 4th Place
+
+---
+
+## 📱 Smart Stick
+
+IoT Smart Stick for visually impaired users
+
+- GPS
+- GSM
+- Obstacle Detection
+
+---
+
+# 💼 Experience
+
+### AI/ML & System Integration Intern
+
+**SSPL – DRDO**
+
+- FastAPI
+- Python
+- React
+- AI Agents
+- Geospatial AI
+
+---
+
+### IBM SkillsBuild
+
+AI & Multi-Agent Systems
+
+---
+
+### Research Intern
+
+DeNovo Technologies
+
+3D Printing • MATLAB • Blender
+
+---
+
+# 📚 Research
+
+📄 Revolutionizing Solar Efficiency: IoT-based Dust Monitoring & Cleaning
+
+Published at ICAMC 2025
+
+---
+
+# 🏆 Achievements
+
+🥇 Smart Delhi Ideathon 2025 — 4th Place
+
+🥈 Tech Expo 2025 — 2nd Position
+
+🏅 Smart India Hackathon
+
+📄 Published Research Paper
+
+🎖 Letter of Appreciation — DRDO
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- LangChain
+- FastAPI
+- React
+- AI Agents
+- Vector Databases
+- System Design
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/nikeeta-jha-62b91a282/
+
+📧 Email
+
+nikeetajha2005@gmail.com
+
+⭐ Thanks for visiting my profile!
