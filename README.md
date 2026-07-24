@@ -40,8 +40,7 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Technologist.png" width="28" /> Skills & Technologies
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Skills & Technologies
 <table width="100%">
 <tr>
 <td width="38%"><h3>🤖 Artificial Intelligence</h3></td>
