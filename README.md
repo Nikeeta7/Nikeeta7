@@ -42,7 +42,7 @@ I'm always looking to improve as an engineer by exploring new technologies, writ
 
 
 
-# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80"/> Skills & Technologies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> Skills & Technologies Skills & Technologies
 
 <table width="100%">
 <tr>
