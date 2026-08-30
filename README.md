@@ -162,27 +162,6 @@ Blender
 
 ---
 
-# 🌱 Currently Learning
-
-```text
-██████████████░░░░░░░░ 70%
-
-AI Agents
-
-████████████████░░░░░ 80%
-
-FastAPI
-
-███████████████░░░░░░ 75%
-
-React
-
-████████████░░░░░░░░░ 60%
-
-System Design
-```
-
----
 
 # 🌐 Connect
 
